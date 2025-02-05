@@ -3,9 +3,15 @@
   "displayName": "PHP Auto Switcher",
   "description": "Automatically switches php versions inside xampp folder",
   "version": "0.0.1",
+  "publisher": "SagaVirtual",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igorponce/php-auto-switcher"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Other"
   ],
