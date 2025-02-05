@@ -8,7 +8,7 @@ PHP Auto Switcher is a Visual Studio Code extension that automatically switches 
 
 ## Contributing
 
-We welcome contributions to the PHP Auto Switcher project! If you have suggestions for improvements or have found a bug, please open an issue or submit a pull request on our [GitHub repository](https://github.com/your-repo/php-auto-switcher).
+We welcome contributions to the PHP Auto Switcher project! If you have suggestions for improvements or have found a bug, please open an issue or submit a pull request on our [GitHub repository](https://github.com/igorponce/php-auto-switcher).
 
 ## Features
 
