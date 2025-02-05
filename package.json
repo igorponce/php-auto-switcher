@@ -2,7 +2,7 @@
   "name": "php-auto-switcher",
   "displayName": "PHP Auto Switcher",
   "description": "Automatically switches php versions inside xampp folder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SagaVirtual",
   "repository": {
     "type": "git",
